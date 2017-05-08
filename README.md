@@ -1,6 +1,6 @@
 <h1><strong>Magento Marketplace Favorite Seller </strong></h1>
 
-<p>Magento Marketplace Favorite Seller <span style="color:rgb(64, 64, 65); font-family:ced_new; font-size:15px">is a powerful Plugin&nbsp;</span>allows customers to add their favorite&nbsp;seller&nbsp;list.Buyers can view all updates and latest products added by the seller. Sellers can also email their followers.&nbsp;This way buyers will be able to track new products updated recently by sellers and can buy the latest items from the seller&#39;s store.</p>
+<p>Magento Marketplace Favorite Seller <span style="color:rgb(64, 64, 65); font-family:ced_new; font-size:15px">is a powerful Plugin&nbsp;</span>allows customers to add their favorite&nbsp;seller&nbsp;list.Buyers can view all updates and latest products added by the seller. Sellers can also email to their followers.&nbsp;This way buyers will be able to track new products updated recently by sellers and can buy the latest items from the seller&#39;s store.</p>
 
 <h2><strong>Magento Marketplace Favorite Seller Features</strong></h2>
 
